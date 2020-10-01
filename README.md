@@ -16,3 +16,10 @@ Example output:
 References:
 * https://en.wikipedia.org/wiki/Unix_time
 * https://www.epochconverter.com/
+* https://blogs.sap.com/2013/04/28/working-with-odata-dates/
+* https://stackoverflow.com/questions/6999726/how-can-i-convert-a-datetime-object-to-milliseconds-since-epoch-unix-time-in-p
+* https://stackoverflow.com/questions/4666973/how-to-extract-the-substring-between-two-markers
+* https://docs.python.org/3.7/library/re.html
+* https://avilpage.com/2014/11/python-unix-timestamp-utc-and-their.html
+* https://www.calazan.com/dealing-datetime-objects-and-time-zones-python-3/
+* https://howchoo.com/g/ywi5m2vkodk/working-with-datetime-objects-and-timezones-in-python
